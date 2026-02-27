@@ -23,6 +23,7 @@
         <categoryId>nike</categoryId>
         <name>Nike Женские кроссовки Air Force 1 '07</name>
         <vendor>Nike</vendor>
+        <picture>https://hofstadterp0.github.io/demoshop/img/nike_air_force_1_07w/product1.png</picture>
         <param name="product_collection">Air Force 1</param>
         <param name="product_gender">Женщины</param>
         <param name="product_rate">4,8</param>
