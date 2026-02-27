@@ -16,7 +16,7 @@
     <offers>
       <!-- Products -->
       <offer id="product1" available="true">
-        <url>https://demoshop.com/krossovki-nike-airdorce107</url>
+        <url>https://demoshop.com/krossovki-nike-airforce107</url>
         <price>19999</price>
         <currencyId>RUB</currencyId>
         <categoryId>sneakers_women</categoryId>
