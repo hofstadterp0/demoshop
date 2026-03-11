@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <yml_catalog date="2026-01-26 16:20">
   <shop>
-    <name>Sneakers Shop</name>
-    <company>Sneakers Shop</company>
+    <name>Demo Shop</name>
+    <company>Demo Sneakers Shop</company>
     <url>https://sneakersdemoshop.com</url>
     <categories>
       <category id="sneakers_men">Мужские кроссовки</category>
@@ -40,9 +40,9 @@
         <categoryId>sneakers_women</categoryId>
         <categoryId>nike</categoryId>
         <vendor>Nike</vendor>
-        <param name="product_collection">Air Force 1</param>
-        <param name="product_gender">Женщины</param>
-        <param name="product_rate">4,8</param>
+        <param name="sku_collection">Air Force 1</param>
+        <param name="sku_gender">Женщины</param>
+        <param name="sku_rate">4,8</param>
       </offer>
 
       <offer id="sku1_2" group_id="product1" available="true">
@@ -54,9 +54,9 @@
         <categoryId>sneakers_women</categoryId>
         <categoryId>nike</categoryId>
         <vendor>Nike</vendor>
-        <param name="product_collection">Air Force 1</param>
-        <param name="product_gender">Женщины</param>
-        <param name="product_rate">4,8</param>
+        <param name="sku_collection">Air Force 1</param>
+        <param name="sku_gender">Женщины</param>
+        <param name="sku_rate">4,8</param>
       </offer>
 
     <offer id="sku1_3" group_id="product1" available="true">
@@ -68,9 +68,9 @@
         <categoryId>nike</categoryId>
         <vendor>Nike</vendor>
         <picture>https://hofstadterp0.github.io/demoshop/img/nike_air_force_1_07w/sku1_2.png</picture>
-        <param name="product_collection">Air Force 1</param>
-        <param name="product_gender">Женщины</param>
-        <param name="product_rate">4,8</param>
+        <param name="sku_collection">Air Force 1</param>
+        <param name="sku_gender">Женщины</param>
+        <param name="sku_rate">4,8</param>
       </offer>
     </offers>
   </shop>
