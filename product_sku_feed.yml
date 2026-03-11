@@ -248,9 +248,9 @@
         <categoryId>nike</categoryId>
         <vendor>Nike</vendor>
         <count>20</count>
-        <param name="product_collection">Air Max Portal</param>
-        <param name="product_gender">Женщины</param>
-        <param name="product_rate">4,5</param>
+        <param name="sku_collection">Air Max Portal</param>
+        <param name="sku_gender">Женщины</param>
+        <param name="sku_rate">4,5</param>
       </offer>
 
       <offer id="sku5_2" group_id="product5" available="true">
@@ -262,9 +262,9 @@
         <categoryId>nike</categoryId>
         <vendor>Nike</vendor>
         <count>40</count>
-        <param name="product_collection">Air Max Portal</param>
-        <param name="product_gender">Женщины</param>
-        <param name="product_rate">4,5</param>
+        <param name="sku_collection">Air Max Portal</param>
+        <param name="sku_gender">Женщины</param>
+        <param name="sku_rate">4,5</param>
       </offer>
 
       <offer id="sku5_3" group_id="product5" available="false">
@@ -276,9 +276,9 @@
         <categoryId>nike</categoryId>
         <vendor>Nike</vendor>
         <count>0</count>
-        <param name="product_collection">Air Max Portal</param>
-        <param name="product_gender">Женщины</param>
-        <param name="product_rate">4,5</param>
+        <param name="sku_collection">Air Max Portal</param>
+        <param name="sku_gender">Женщины</param>
+        <param name="sku_rate">4,5</param>
       </offer>
 
     </offers>
