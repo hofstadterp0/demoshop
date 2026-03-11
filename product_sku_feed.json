@@ -32,13 +32,13 @@
 
       <!-- SKUs -->
       <offer id="sku1_1" group_id="product1" available="true">
-        <url>https://demoshop.com/krossovki-nike-airdorce107</url>
         <name>Женские кроссовки Nike Air Force 1 '07 White</name>
+        <url>https://demoshop.com/krossovki-nike-airdorce107</url>
+        <picture>https://hofstadterp0.github.io/demoshop/img/nike_air_force_1_07w/product1.png</picture>
         <price>19999</price>
         <currencyId>RUB</currencyId>
         <categoryId>sneakers_women</categoryId>
         <categoryId>nike</categoryId>
-
         <vendor>Nike</vendor>
         <param name="product_collection">Air Force 1</param>
         <param name="product_gender">Женщины</param>
@@ -46,8 +46,9 @@
       </offer>
 
       <offer id="sku1_2" group_id="product1" available="true">
-        <name>Женские кроссовки Nike Air Force 1 '07 Cannon</name>
+        <name>Женские кроссовки Nike Air Force 1 '07 Pink</name>
         <url>https://demoshop.com/krossovki-nike-airdorce107</url>
+        <picture>https://hofstadterp0.github.io/demoshop/img/nike_air_force_1_07w/sku1_1.png</picture>
         <price>19999</price>
         <currencyId>RUB</currencyId>
         <categoryId>sneakers_women</categoryId>
@@ -67,6 +68,7 @@
         <categoryId>sneakers_women</categoryId>
         <categoryId>nike</categoryId>
         <vendor>Nike</vendor>
+        <picture>https://hofstadterp0.github.io/demoshop/img/nike_air_force_1_07w/sku1_2.png</picture>
         <param name="product_collection">Air Force 1</param>
         <param name="product_gender">Женщины</param>
         <param name="product_rate">4,8</param>
