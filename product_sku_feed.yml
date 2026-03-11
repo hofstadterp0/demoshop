@@ -17,12 +17,14 @@
 
       <!-- Products -->
       <offer id="product1" available="true">
+        <name>Nike Женские кроссовки Air Force 1 '07</name>
         <url>https://demoshop.com/krossovki-nike-airdorce107</url>
+        <picture>https://hofstadterp0.github.io/demoshop/img/nike_air_force_1_07w/product1.png</picture>
         <price>19999</price>
         <currencyId>RUB</currencyId>
         <categoryId>sneakers_women</categoryId>
         <categoryId>nike</categoryId>
-        <name>Nike Женские кроссовки Air Force 1 '07</name>
+        
         <vendor>Nike</vendor>
         <count>192</count>
         <param name="product_collection">Air Force 1</param>
@@ -30,7 +32,71 @@
         <param name="product_rate">4,8</param>
       </offer>
 
-      <!-- SKUs -->
+      <offer id="product2" available="true">
+        <name>Nike Женские кроссовки P-6000</name>
+        <url>https://demoshop.com/krossovki-nike-p6000-women</url>
+        <price>16999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>sneakers_women</categoryId>
+        <categoryId>nike</categoryId>
+        
+        <vendor>Nike</vendor>
+        <count>137</count>
+        <param name="product_collection">P-6000</param>
+        <param name="product_gender">Женщины</param>
+        <param name="product_rate">4,4</param>
+      </offer>
+
+      <offer id="product3" available="false">
+        <name>Nike Кроссовки Ava Rover</name>
+        <url>https://demoshop.com/krossovki-nike-avarover</url>
+        <price>20999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>sneakers_women</categoryId>
+        <categoryId>sneakers_men</categoryId>
+        <categoryId>nike</categoryId>
+        
+        <vendor>Nike</vendor>
+        <count>137</count>
+        <param name="product_collection">Ava Rover</param>
+        <param name="product_gender">Унисекс</param>
+        <param name="product_rate">4,7</param>
+      </offer>
+
+      <offer id="product4" available="true">
+        <name>Jordan Женские кроссовки Flight Court</name>
+        <url>https://demoshop.com/krossovki-jordan-flightcourt-women</url>
+        <price>16999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>sneakers_women</categoryId>
+        <categoryId>jordan</categoryId>
+        
+        <vendor>Jordan</vendor>
+        <count>61</count>
+        <param name="product_collection">Flight</param>
+        <param name="product_gender">Женщины</param>
+        <param name="product_rate">4,7</param>
+      </offer>
+
+      <offer id="product5" available="true">
+        <name>Nike Женские кроссовки Air Max Portal</name>
+        <url>https://demoshop.com/krossovki-nike-airmaxportal</url>
+        <price>16999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>sneakers_women</categoryId>
+        <categoryId>nike</categoryId>
+        
+        <vendor>Nike</vendor>
+        <count>60</count>
+        <param name="product_collection">Air Max Portal</param>
+        <param name="product_gender">Женщины</param>
+        <param name="product_rate">4,5</param>
+      </offer>
+
+
+
+
+      <!-- SKU 1 -->
       <offer id="sku1_1" group_id="product1" available="true">
         <name>Женские кроссовки Nike Air Force 1 '07 White</name>
         <url>https://demoshop.com/krossovki-nike-airdorce107</url>
@@ -75,9 +141,146 @@
         <param name="sku_gender">Женщины</param>
         <param name="sku_rate">4,8</param>
       </offer>
+
+
+      <!-- SKU 2 -->
+      <offer id="sku2_1" group_id="product2" available="true">
+        <name>Nike Женские кроссовки P-6000 Gray</name>
+        <url>https://demoshop.com/krossovki-nike-p6000-women</url>
+        <picture>https://hofstadterp0.github.io/demoshop/img/nike_air_force_1_07w/product1.png</picture>
+        <price>16999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>sneakers_women</categoryId>
+        <categoryId>nike</categoryId>
+        <vendor>Nike</vendor>
+        <count>57</count>
+        <param name="sku_collection">P-6000</param>
+        <param name="sku_gender">Женщины</param>
+        <param name="sku_rate">4,4</param>
+      </offer>
+
+      <offer id="sku2_2" group_id="product2" available="true">
+        <name>Nike Женские кроссовки P-6000 Burgundy Crush</name>
+        <url>https://demoshop.com/krossovki-nike-p6000-women</url>
+        <picture>https://hofstadterp0.github.io/demoshop/img/nike_air_force_1_07w/product1.png</picture>
+        <price>16999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>sneakers_women</categoryId>
+        <categoryId>nike</categoryId>
+        <vendor>Nike</vendor>
+        <count>57</count>
+        <param name="sku_collection">P-6000</param>
+        <param name="sku_gender">Женщины</param>
+        <param name="sku_rate">4,4</param>
+      </offer>
+      
+      <offer id="sku2_3" group_id="product2" available="true">
+        <name>Nike Женские кроссовки P-6000 Platinum Tint</name>
+        <url>https://demoshop.com/krossovki-nike-p6000-women</url>
+        <picture>https://hofstadterp0.github.io/demoshop/img/nike_air_force_1_07w/product1.png</picture>
+        <price>16999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>sneakers_women</categoryId>
+        <categoryId>nike</categoryId>
+        <vendor>Nike</vendor>
+        <count>57</count>
+        <param name="sku_collection">P-6000</param>
+        <param name="sku_gender">Женщины</param>
+        <param name="sku_rate">4,4</param>
+      </offer>
+
+
+      <!-- SKU 3 -->
+      <offer id="sku3_1" group_id="product3" available="false">
+        <name>Nike Кроссовки Ava Rover</name>
+        <url>https://demoshop.com/krossovki-nike-avarover</url>
+        <price>20999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>sneakers_women</categoryId>
+        <categoryId>sneakers_men</categoryId>
+        <categoryId>nike</categoryId>
+        
+        <vendor>Nike</vendor>
+        <count>0</count>
+        <param name="sku_collection">Ava Rover</param>
+        <param name="sku_gender">Унисекс</param>
+        <param name="sku_rate">4,7</param>
+      </offer>
+
+
+      <!-- SKU 4 -->
+      <offer id="sku4_1" group_id="product4" available="true">
+        <name>Jordan Женские кроссовки Flight Court Multicolor</name>
+        <url>https://demoshop.com/krossovki-jordan-flightcourt-women</url>
+        <price>16999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>sneakers_women</categoryId>
+        <categoryId>jordan</categoryId>
+
+        <vendor>Jordan</vendor>
+        <count>8</count>
+        <param name="sku_collection">Flight</param>
+        <param name="sku_gender">Женщины</param>
+        <param name="sku_rate">4,7</param>
+      </offer>
+      <offer id="sku4_2" group_id="product4" available="true">
+        <name>Jordan Женские кроссовки Flight Court Lilac</name>
+        <url>https://demoshop.com/krossovki-jordan-flightcourt-women</url>
+        <price>16999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>sneakers_women</categoryId>
+        <categoryId>jordan</categoryId>
+        <vendor>Jordan</vendor>
+        <count>53</count>
+        <param name="sku_collection">Flight</param>
+        <param name="sku_gender">Женщины</param>
+        <param name="sku_rate">4,7</param>
+      </offer>
+
+
+      <!-- SKU 5 -->
+      <offer id="sku5_1" group_id="product5" available="true">
+        <name>Nike Женские кроссовки Air Max Portal White/Pink</name>
+        <url>https://demoshop.com/krossovki-nike-airmaxportal</url>
+        <price>16999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>sneakers_women</categoryId>
+        <categoryId>nike</categoryId>
+        <vendor>Nike</vendor>
+        <count>20</count>
+        <param name="product_collection">Air Max Portal</param>
+        <param name="product_gender">Женщины</param>
+        <param name="product_rate">4,5</param>
+      </offer>
+
+      <offer id="sku5_2" group_id="product5" available="true">
+        <name>Nike Женские кроссовки Air Max Portal Silt Red</name>
+        <url>https://demoshop.com/krossovki-nike-airmaxportal</url>
+        <price>12599</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>sneakers_women</categoryId>
+        <categoryId>nike</categoryId>
+        <vendor>Nike</vendor>
+        <count>40</count>
+        <param name="product_collection">Air Max Portal</param>
+        <param name="product_gender">Женщины</param>
+        <param name="product_rate">4,5</param>
+      </offer>
+
+      <offer id="sku5_3" group_id="product5" available="false">
+        <name>Nike Женские кроссовки Air Max Portal Sundial</name>
+        <url>https://demoshop.com/krossovki-nike-airmaxportal</url>
+        <price>12599</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>sneakers_women</categoryId>
+        <categoryId>nike</categoryId>
+        <vendor>Nike</vendor>
+        <count>0</count>
+        <param name="product_collection">Air Max Portal</param>
+        <param name="product_gender">Женщины</param>
+        <param name="product_rate">4,5</param>
+      </offer>
+
     </offers>
   </shop>
 </yml_catalog>
-
-
-
