@@ -24,7 +24,7 @@
         <categoryId>nike</categoryId>
         <name>Nike Женские кроссовки Air Force 1 '07</name>
         <vendor>Nike</vendor>
-        <balance>192</balance>
+        <count>192</count>
         <param name="product_collection">Air Force 1</param>
         <param name="product_gender">Женщины</param>
         <param name="product_rate">4,8</param>
@@ -40,7 +40,7 @@
         <categoryId>sneakers_women</categoryId>
         <categoryId>nike</categoryId>
         <vendor>Nike</vendor>
-        <amount>92</amount>
+        <count>92</count>
         <param name="sku_collection">Air Force 1</param>
         <param name="sku_gender">Женщины</param>
         <param name="sku_rate">4,8</param>
@@ -55,6 +55,7 @@
         <categoryId>sneakers_women</categoryId>
         <categoryId>nike</categoryId>
         <vendor>Nike</vendor>
+        <count>28</count>
         <param name="sku_collection">Air Force 1</param>
         <param name="sku_gender">Женщины</param>
         <param name="sku_rate">4,8</param>
@@ -69,6 +70,7 @@
         <categoryId>nike</categoryId>
         <vendor>Nike</vendor>
         <picture>https://hofstadterp0.github.io/demoshop/img/nike_air_force_1_07w/sku1_2.png</picture>
+        <count>72</count>
         <param name="sku_collection">Air Force 1</param>
         <param name="sku_gender">Женщины</param>
         <param name="sku_rate">4,8</param>
