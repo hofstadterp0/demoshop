@@ -58,7 +58,6 @@
         <param name="product_gender">Женщины</param>
         <param name="product_rate">4,8</param>
       </offer>
-    </offers>
 
     <offer id="sku1_3" group_id="product1" available="true">
         <name>Nike Женские кроссовки Air Force 1 '07 Light Blue</name>
