@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-12 00:00">
+<yml_catalog date="2026-03-12 20:00">
   <shop>
     <name>Demo Sneakers Shop</name>
     <company>Demo Sneakers Shop LLC</company>
     <url>https://sneakersdemoshop.com</url>
     
-    <!-- ==================== КАТЕГОРИИ ==================== -->
+    <!-- Категории -->
     <categories>
       <!-- Корневая категория -->
       <category id="1">Кроссовки</category>
       
-      <!-- Мужские кроссовки с подкатегориями по брендам -->
+      <!-- Мужские кроссовки -->
       <category id="2" parentId="1">Мужские кроссовки</category>
       <category id="3" parentId="2">Nike</category>
       <category id="4" parentId="2">Jordan</category>
       <category id="5" parentId="2">New Balance</category>
       <category id="6" parentId="2">adidas</category>
       
-      <!-- Женские кроссовки с подкатегориями по брендам -->
+      <!-- Женские кроссовки -->
       <category id="7" parentId="1">Женские кроссовки</category>
       <category id="8" parentId="7">Nike</category>
       <category id="9" parentId="7">Jordan</category>
@@ -27,13 +27,11 @@
 
     <offers>
       
-      <!-- ================================================================== -->
-      <!-- ==================== ЖЕНСКИЕ КРОССОВКИ (6) ====================== -->
-      <!-- ================================================================== -->
+      <!-- ========== ЖЕНСКИЕ КРОССОВКИ ========== -->
       
-      <!-- NIKE (2 продукта)                                                 -->
+      <!-- NIKE -->
       
-      <!-- ========== PRODUCT 1: Nike Air Force 1 '07 White ========== -->
+      <!-- PRODUCT 1: Nike Air Force 1 '07 White -->
       <offer id="product1_white" available="true">
         <name>Nike Женские кроссовки Air Force 1 '07 White</name>
         <price>19999</price>
@@ -109,7 +107,7 @@
         <param name="sku_size">39</param>
       </offer>
       
-      <!-- ========== PRODUCT 2: Nike Air Force 1 '07 Pink ========== -->
+      <!-- PRODUCT 2: Nike Air Force 1 '07 Pink -->
       <offer id="product1_pink" available="true">
         <name>Nike Женские кроссовки Air Force 1 '07 Pink</name>
         <price>19999</price>
@@ -185,11 +183,9 @@
         <param name="sku_size">39</param>
       </offer>
       
-      <!-- ------------------------------------------------------------------ -->
-      <!-- ADIDAS (2 продукта)                                               -->
-      <!-- ------------------------------------------------------------------ -->
+      <!-- ADIDAS -->
       
-      <!-- ========== PRODUCT 3: adidas Adizero Evo SL ========== -->
+      <!-- PRODUCT 3: adidas Adizero Evo SL -->
       <offer id="product14" available="true">
         <name>adidas Женские кроссовки Adizero Evo SL</name>
         <price>21999</price>
@@ -265,7 +261,7 @@
         <param name="sku_size">39</param>
       </offer>
       
-      <!-- ========== PRODUCT 4: adidas Samba OG White ========== -->
+      <!-- PRODUCT 4: adidas Samba OG White -->
       <offer id="product15_white" available="true">
         <name>adidas Женские кроссовки Samba OG White</name>
         <price>18999</price>
@@ -341,11 +337,9 @@
         <param name="sku_size">39</param>
       </offer>
       
-      <!-- ------------------------------------------------------------------ -->
-      <!-- NEW BALANCE (2 продукта)                                          -->
-      <!-- ------------------------------------------------------------------ -->
+      <!-- NEW BALANCE -->
       
-      <!-- ========== PRODUCT 5: New Balance 574 Blue ========== -->
+      <!-- PRODUCT 5: New Balance 574 Blue -->
       <offer id="product12_blue" available="true">
         <name>New Balance Женские кроссовки 574 Blue</name>
         <price>18999</price>
@@ -421,7 +415,7 @@
         <param name="sku_size">39</param>
       </offer>
       
-      <!-- ========== PRODUCT 6: New Balance 574 Beige ========== -->
+      <!-- PRODUCT 6: New Balance 574 Beige -->
       <offer id="product12_beige" available="true">
         <name>New Balance Женские кроссовки 574 Beige</name>
         <price>15399</price>
@@ -497,15 +491,11 @@
         <param name="sku_size">39</param>
       </offer>
       
-      <!-- ================================================================== -->
-      <!-- ==================== МУЖСКИЕ КРОССОВКИ (6) ====================== -->
-      <!-- ================================================================== -->
+      <!-- ========== МУЖСКИЕ КРОССОВКИ ========== -->
       
-      <!-- ------------------------------------------------------------------ -->
-      <!-- NIKE (2 продукта)                                                 -->
-      <!-- ------------------------------------------------------------------ -->
+      <!-- NIKE -->
       
-      <!-- ========== PRODUCT 7: Nike Air Force 1 '07 White (Мужские) ========== -->
+      <!-- PRODUCT 7: Nike Air Force 1 '07 White (Мужские) -->
       <offer id="product21_white" available="true">
         <name>Nike Мужские кроссовки Air Force 1 '07 White</name>
         <price>21999</price>
@@ -611,7 +601,7 @@
         <param name="sku_size">45</param>
       </offer>
       
-      <!-- ========== PRODUCT 8: Nike Air Max 90 Black ========== -->
+      <!-- PRODUCT 8: Nike Air Max 90 Black -->
       <offer id="product22_black" available="true">
         <name>Nike Мужские кроссовки Air Max 90 Black</name>
         <price>23999</price>
@@ -717,11 +707,9 @@
         <param name="sku_size">45</param>
       </offer>
       
-      <!-- ------------------------------------------------------------------ -->
-      <!-- ADIDAS (2 продукта)                                               -->
-      <!-- ------------------------------------------------------------------ -->
+      <!-- ADIDAS -->
       
-      <!-- ========== PRODUCT 9: adidas Adizero Evo SL White (Мужские) ========== -->
+      <!-- PRODUCT 9: adidas Adizero Evo SL White (Мужские) -->
       <offer id="product31_white" available="true">
         <name>adidas Мужские кроссовки Adizero Evo SL White</name>
         <price>21999</price>
@@ -827,7 +815,7 @@
         <param name="sku_size">45</param>
       </offer>
       
-      <!-- ========== PRODUCT 10: adidas Samba OG Black (Мужские) ========== -->
+      <!-- PRODUCT 10: adidas Samba OG Black (Мужские) -->
       <offer id="product35_black" available="true">
         <name>adidas Мужские кроссовки Samba OG Black</name>
         <price>14999</price>
@@ -933,11 +921,9 @@
         <param name="sku_size">45</param>
       </offer>
       
-      <!-- ------------------------------------------------------------------ -->
-      <!-- NEW BALANCE (2 продукта)                                          -->
-      <!-- ------------------------------------------------------------------ -->
+      <!-- NEW BALANCE -->
       
-      <!-- ========== PRODUCT 11: New Balance 1000 Silver ========== -->
+      <!-- PRODUCT 11: New Balance 1000 Silver -->
       <offer id="product32_silver" available="true">
         <name>New Balance Мужские кроссовки 1000 Silver</name>
         <price>26999</price>
@@ -1043,7 +1029,7 @@
         <param name="sku_size">45</param>
       </offer>
       
-      <!-- ========== PRODUCT 12: New Balance 1000 Black ========== -->
+      <!-- PRODUCT 12: New Balance 1000 Black -->
       <offer id="product32_black" available="true">
         <name>New Balance Мужские кроссовки 1000 Black</name>
         <price>22999</price>
