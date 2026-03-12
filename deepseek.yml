@@ -7,18 +7,18 @@
     
     <!-- Категории -->
     <categories>
-      <!-- Корневая категория -->
+      <!-- Уровень 1: корневые -->
       <category id="1">Кроссовки</category>
       
-      <!-- Мужские кроссовки -->
+      <!-- Уровень 2: зависят только от id="1" -->
       <category id="2" parentId="1">Мужские кроссовки</category>
+      <category id="7" parentId="1">Женские кроссовки</category>
+      
+      <!-- Уровень 3: зависят от id="2" и id="7" (они уже объявлены выше) -->
       <category id="3" parentId="2">Nike</category>
       <category id="4" parentId="2">Jordan</category>
       <category id="5" parentId="2">New Balance</category>
       <category id="6" parentId="2">adidas</category>
-      
-      <!-- Женские кроссовки -->
-      <category id="7" parentId="1">Женские кроссовки</category>
       <category id="8" parentId="7">Nike</category>
       <category id="9" parentId="7">Jordan</category>
       <category id="10" parentId="7">New Balance</category>
